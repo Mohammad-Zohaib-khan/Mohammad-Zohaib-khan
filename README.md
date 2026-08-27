@@ -90,9 +90,17 @@ Hi, I'm **Mohammad Zohaib Khan**. I'm a software developer interested in buildin
 
 ## `~/` contribution calendar
 
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+<!-- Actual contribution calendar -->
+<p>
+  <img src="assets/metrics.calendar.svg" width="90%" alt="Actual GitHub contribution calendar">
+</p>
 
+<br>
+
+<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
+<p>
+  <img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+</p>
 <br><br>
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
