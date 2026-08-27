@@ -28,11 +28,7 @@
 
 ---
 
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
+## `~/` About
 
 Hi, I'm **Mohammad Zohaib Khan**. I'm a software developer interested in building practical applications and improving my problem-solving skills.
 
