@@ -1,0 +1,21 @@
+
+{
+  "projects": [
+    {
+      "repo": "Project-1",
+      "description": "Full-stack web application built with modern web technologies."
+    },
+    {
+      "repo": "Project-2",
+      "description": "Software project focused on practical application development."
+    },
+    {
+      "repo": "Project-3",
+      "description": "Full-stack project using MERN stack, SQL, Python, HTML, CSS and JavaScript."
+    },
+    {
+      "repo": "Project-4",
+      "description": "Web development project built with modern software technologies."
+    }
+  ]
+}
